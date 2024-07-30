@@ -349,7 +349,7 @@ a {
   margin-top: 7px;
 }
 
-.article__title:hover {
+.article__title:hover, .trends__title:hover {
   color: #d6cba5;
 }
 
