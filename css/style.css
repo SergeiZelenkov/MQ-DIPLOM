@@ -350,7 +350,7 @@ a {
 }
 
 .article__title:hover, .trends__title:hover {
-  color: #d6cba5;
+  color: #b59f5b;
 }
 
 .item__post,
@@ -359,7 +359,7 @@ a {
   font-style: normal;
   text-transform: uppercase;
   font-size: 14px;
-  color: #d6cba5;
+  color: #b59f5b;
 }
 
 .item__post:hover,
@@ -444,7 +444,7 @@ a {
 }
 
 .aside__subtitle:hover {
-  color: #d6cba5;
+  color: #b59f5b;
 }
 
 .search {
