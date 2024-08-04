@@ -346,11 +346,9 @@ a {
   margin-top: 4px;
 }
 
-
-                         /*posmotret*/
-
-.post__image {
-  
+.text__text {
+  margin-bottom: 7px;
+  margin-right: -4px;
 }
 
 .list__post,
@@ -593,12 +591,6 @@ a {
   margin-top: -4px;
 }
 
-.text__text {
-  margin-bottom: 7px;
-
-  width: 363px;
-}
-
 .tag-item {
   display: flex;
   border: 3px solid;
@@ -716,7 +708,7 @@ a {
 .aside-shop__image {
   height: 204px;
   width: 100%;
-  
+
   object-fit: cover;
 }
 
@@ -1048,7 +1040,7 @@ a {
 
     .text__text {
       margin-bottom: 7px;
-      width: 391px;
+      margin-right: 6px;
     }
 
     .img-container {
@@ -1346,6 +1338,7 @@ a {
     font-size: 14px;
     line-height: 1.5;
     margin-bottom: 0px;
+    margin-right: 0px;
 
 }
     
@@ -1507,8 +1500,8 @@ a {
     }
     }
 
-    
-   /* @media (orientation: landscape) and (max-width: 1200px) {
+    /*
+    @media (orientation: landscape) and (max-width: 1200px) {
       .article-trends__trend1, 
       .article-trends__trend2,
       .article-trends__trend3, 
